@@ -1,6 +1,5 @@
 flask
-gunicorn
 pandas
 pdfplumber
-xlwings
 PyPDF2
+xlwings
